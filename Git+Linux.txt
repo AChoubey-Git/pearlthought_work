@@ -1,0 +1,47 @@
+.........Learning basic commands.........
+1: git init
+2: git status
+3: git diff
+4: git add
+5: git commit
+6: git push
+7: git pull
+8: git remote
+9: git fetch
+10: git branch
+
+.........Linux Commands......
+1: pwd -> present working directory.
+
+2: cd ->Change the shell working directory.
+    Change the current directory to DIR.  The default DIR is the value of the
+    HOME shell variable.
+
+3: ls -> List information about the FILEs (the current directory by default).
+
+4: ls -l -> use a long listing format.
+
+5: mkdir -> make a directory in the current working directory.
+
+6: rmdir -> remove directory
+
+7: clear -> clear terminal
+
+8: rm -r -> remove directories and their contents recursively.
+
+9: touch <file_name.extention> create a new empty file.
+
+10:cp <source> <destination path> -> Copy SOURCE to DEST, or multiple SOURCE(s) to 		DIRECTORY.
+
+11: cat new_file -> Display content of newfile.
+
+12: cat -n hello.txt ->  number all output lines.
+
+13: cat >> hello.txt -> append text into into file
+
+14: cat > hello.txt -> override the content.
+
+15: cap file1 file2 ->copy contents from file1 to file2.
+
+
+
